@@ -1,3 +1,2 @@
 # teto-1
-基于https://github.com/liyupi/daxigua修改
-请通过链接游玩
+基于 https://github.com/liyupi/daxigua 修改
